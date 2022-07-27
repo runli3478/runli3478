@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @runli3478
 - 👀 I’m interested in SQL
 - 🌱 I’m currently learning everything that I could
-- 💞️ I’m looking to collaborate on github
 - 📫 Reach me out @RL19218774 twitter!
 
 <!---
