@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @runli3478
-- 👀 I’m interested in SQL
-- 🌱 I’m currently learning everything that I could
-- 📫 Reach me out @RL19218774 twitter!
+- 👀 Learning Solidity X LLM
+- 🌱 Looking for collaboration in certain projects
+- 📫 Reach me out @0xsmolrun twitter!
 
 <!---
 runli3478/runli3478 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
